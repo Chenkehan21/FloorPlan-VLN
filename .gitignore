@@ -14,7 +14,7 @@ models
 qwen-vl-finetune/data
 qwen-vl-finetune/output
 qwen-vl-finetune/wandb
-VLN-CE/data
+VLN-CE/data/datasets
 tests
 qwen-vl-finetune/output*
 *.ipynb
