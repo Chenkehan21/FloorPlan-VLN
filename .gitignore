@@ -14,6 +14,8 @@ models
 qwen-vl-finetune/data
 qwen-vl-finetune/output
 qwen-vl-finetune/wandb
-data
 tests
 qwen-vl-finetune/output*
+*.ipynb
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
