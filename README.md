@@ -36,7 +36,7 @@ Existing Vision-Language Navigation (VLN) paradigms require agents to follow ver
 - [x] Release finetune json files
 - [x] Release Val-seen and Val-unseen evaluation files
 - [x] Release FloorPlan-VLN-R2R finetune data
-- [ ] Release FloorPlan-VLN-RxR finetune data
+- [x] Release FloorPlan-VLN-RxR finetune data
 - [x] Release FloorPlan Dataset construction code
 
 # Quick Start:
@@ -58,7 +58,7 @@ Existing Vision-Language Navigation (VLN) paradigms require agents to follow ver
     cat FloorPlan-VLN-R2R.tar.* > FloorPlan-VLN-R2R.tar
     tar -xvf full_archive.tar
     ```
-5. Downlaod [FloorPlan-VLN-RxR-tar]() for finetune:
+5. Downlaod [FloorPlan-VLN-RxR-tar](https://huggingface.co/datasets/keeehan/FloorPlan-VLN-RxR/tree/main) for finetune:
     ```
     cd FloorPlan-VLN-RxR-tar
     cat FloorPlan-VLN-RxR.tar.* > FloorPlan-VLN-RxR.tar
