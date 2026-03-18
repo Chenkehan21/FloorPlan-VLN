@@ -233,4 +233,4 @@ The step of construct `FloorPlan-VLN-R2R/RxR Dataset`, `Navigation QA Dataset` a
 
 ## Acknowledge
 Our implementations are partially inspired by [NaVid](https://pku-epic.github.io/NaVid/) and [NaVILA](https://navila-bot.github.io/).
-Thanks for their great works!
+Thanks for the great works!
