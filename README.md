@@ -16,7 +16,7 @@
 <!-- <h3><strong>Accepted to <a href='https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34' target='_blank'>TPAMI 2024</a></strong></h3> -->
 
 <h3 align="center">
-  <a href="" target='_blank'>[Paper]</a>
+  <a href="https://arxiv.org/html/2603.17437v1" target='_blank'>[Paper]</a>
   <!-- <a href="https://chenkehan21.github.io/CA-Nav-project/" target='_blank'>[Project]</a> -->
   <!-- <a href="https://github.com/Chenkehan21/svm-nav" target='_blank'>[Real Robot Deployment]</a> -->
 </h3>
